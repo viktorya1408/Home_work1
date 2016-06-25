@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+    background-color: #EEE9E9;}
+.page {
+	margin: 2px 32%;
+	border: 2px solid LightGray;
+	width: 36%;
+    height: 90%;
+    font-size: 18px;
+    line-height: 1.5;
+    background-color: white;}
+.block {
+	margin: 10px 60px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-bottom: 2px solid LightGray;	}
+.lastblock {margin: 10px 60px;
+	padding-left: 20px;
+	padding-right: 20px;}
+h1 {text-align: center;
+    font-size: 24px;}
+.photo {text-align: center;}
+img {height: 200px;}
+.indented {margin-bottom: 30px;}
+p {text-align: justify;}
+ul {text-align: justify;}
+a {color: blue;}
